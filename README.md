@@ -1,9 +1,7 @@
 # PyData Geneva: RecBole Tutorial
 Repository containing a simple tutorial on how to use RecBole to
-build a recommendation system.
-
-This tutorial is part of the [PyData Geneva Session](https://www.meetup.com/pydata-geneve/events/292560839/) 
-held on April 5 2023.
+build a recommendation system. This tutorial is part of the [PyData Geneva Session](https://www.meetup.com/pydata-geneve/events/292560839/) 
+held on April 5 2023. You can find the slides [here](slides.pdf).
 
 ## Requirements
 

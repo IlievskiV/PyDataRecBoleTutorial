@@ -1,0 +1,22 @@
+## General
+nproc: 1
+
+## Model config
+embedding_size: 64
+
+## Dataset config : General Recommendation
+USER_ID_FIELD: user_id
+ITEM_ID_FIELD: item_id
+load_col:
+    inter: [user_id, item_id]
+
+## Training
+epochs: 500
+train_batch_size: 512
+eval_batch_size: 512
+
+## Evaluation
+metrics: ['Recall', 'MRR', 'NDCG', 'Hit', 'Precision']
+topk: 10
+eval_step: 2
+valid_metric: MRR@10

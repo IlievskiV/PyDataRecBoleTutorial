@@ -1,5 +1,5 @@
 # PyData Geneva: RecBole Tutorial
-Repositorgit remote add origin git@github.com:IlievskiV/PyDataRecBoleTutorial.gity containing a simple tutorial on how to use RecBole to
+Repository containing a simple tutorial on how to use RecBole to
 build a recommendation system.
 
 This tutorial is part of the [PyData Geneva Session](https://www.meetup.com/pydata-geneve/events/292560839/) 
